@@ -32,8 +32,8 @@ https://aur.archlinux.org/packages/synth-shell-greeter-git/
 The included [setup script](setup.sh) will guide you step by step through the
 installation process. Just clone this repository and run it:
 ```
-git clone --recursive https://github.com/andresgongora/synth-shell-greeter.git
-synth-shell-greeter/setup.sh
+git clone --recursive https://github.com/Onair-santa/shell-panel.git
+shell-panel/setup.sh
 ```
 
 You can then test your script by running it from wherever you installed it.
